@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://t.me/TechnicalHeadquarter"><b>Telegram</b></a>
-  <span> - </span>
+  <span>  </span>
 </p>
 
 <p align="center">
