@@ -31,7 +31,7 @@ Whatsapp:https://chat.whatsapp.com/BTCaDFtHdHrFICwe1SYY8X (Before joining group 
   <img src="https://i.imgur.com/1wJVDV5.png">
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. More on <a href="https://youtube.com/TechnicalHeadquarter"> My Youtube channel </a>.Seeker Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
+Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. More on <a href="https://www.youtube.com/watch?v=FKCZ1Nx0Zuo"> My Youtube channel </a>.Seeker Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
